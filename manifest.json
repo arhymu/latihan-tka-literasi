@@ -1,0 +1,25 @@
+{
+  "name": "Latihan TKA Bahasa Indonesia SMP",
+  "short_name": "TKA B.Indo SMP",
+  "description": "Aplikasi Simulasi CBT TKA Bahasa Indonesia SMP (HOTS) - 40 Butir Soal Literasi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1e40af",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "logo-sekolah.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo-sekolah.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
